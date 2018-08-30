@@ -21,6 +21,9 @@ coverage
 .idea/**/*.iml
 .idea/**/vcs.xml
 
+# no need to include dist in git
+dist
+
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids
